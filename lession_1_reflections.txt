@@ -1,0 +1,13 @@
+Q:How did viewing a diff between 2 versions of a file help you see the bug that was introduced?
+
+You quickly hone in on the actual delta and decide quickly if delta was the cause of a bug.
+
+Q: How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+No more hunting of "versions" of the file that were created to implement different functionalities.
+
+Q: What are the pros and cons of manually choosing to create a commit vs automatically saved tools?
+
+Humans can determine a logical break point to commit a change which may include a number of changes done over a period of time; automatic saving may not make sense.  On the other hand, it may be a good idea to commit always regardless of the state of change once a day to avoid losing the change accidentally.
+
+
