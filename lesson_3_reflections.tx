@@ -6,3 +6,6 @@ What is the benefit of having a copy of the last known state of the remote store
 
 1. So you can take your time to review/merge the differences offline; dry run
 
+When would you want to make changes in a separate branch rather than directly in master?  What benefits does each approach have?
+
+
